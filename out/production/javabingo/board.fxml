@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+            minWidth="-Infinity"
+            prefHeight="605.0" prefWidth="510.0" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="Controller">
+    <children>
+        <Button layoutX="005.0" layoutY="100.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r1c1"
+                onAction="#Update"/>
+        <Button layoutX="105.0" layoutY="100.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r1c2"
+                onAction="#Update"/>
+        <Button layoutX="205.0" layoutY="100.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r1c3"
+                onAction="#Update"/>
+        <Button layoutX="305.0" layoutY="100.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r1c4"
+                onAction="#Update"/>
+        <Button layoutX="405.0" layoutY="100.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r1c5"
+                onAction="#Update"/>
+        <Button layoutX="005.0" layoutY="200.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r2c1"
+                onAction="#Update"/>
+        <Button layoutX="105.0" layoutY="200.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r2c2"
+                onAction="#Update"/>
+        <Button layoutX="205.0" layoutY="200.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r2c3"
+                onAction="#Update"/>
+        <Button layoutX="305.0" layoutY="200.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r2c4"
+                onAction="#Update"/>
+        <Button layoutX="405.0" layoutY="200.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r2c5"
+                onAction="#Update"/>
+        <Button layoutX="005.0" layoutY="300.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r3c1"
+                onAction="#Update"/>
+        <Button layoutX="105.0" layoutY="300.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r3c2"
+                onAction="#Update"/>
+        <Button layoutX="205.0" layoutY="300.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r3c3"
+                onAction="#Update"/>
+        <Button layoutX="305.0" layoutY="300.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r3c4"
+                onAction="#Update"/>
+        <Button layoutX="405.0" layoutY="300.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r3c5"
+                onAction="#Update"/>
+        <Button layoutX="005.0" layoutY="400.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r4c1"
+                onAction="#Update"/>
+        <Button layoutX="105.0" layoutY="400.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r4c2"
+                onAction="#Update"/>
+        <Button layoutX="205.0" layoutY="400.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r4c3"
+                onAction="#Update"/>
+        <Button layoutX="305.0" layoutY="400.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r4c4"
+                onAction="#Update"/>
+        <Button layoutX="405.0" layoutY="400.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r4c5"
+                onAction="#Update"/>
+        <Button layoutX="005.0" layoutY="500.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r5c1"
+                onAction="#Update"/>
+        <Button layoutX="105.0" layoutY="500.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r5c2"
+                onAction="#Update"/>
+        <Button layoutX="205.0" layoutY="500.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r5c3"
+                onAction="#Update"/>
+        <Button layoutX="305.0" layoutY="500.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r5c4"
+                onAction="#Update"/>
+        <Button layoutX="405.0" layoutY="500.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" text="r5c5"
+                onAction="#Update"/>
+        <Text layoutX="30.0" layoutY="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X">
+            <font>
+                <Font size="80.0"/>
+            </font>
+        </Text>
+    </children>
+</AnchorPane>
